@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Austin Moore
+- 👀 I’m interested in programming, data science, and statistics
+- 🌱 I’m currently getting my Master of Science in Data Science and Analytics
+- 📫 How to reach me austin.t.moore-1@ou.edu
